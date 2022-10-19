@@ -5,3 +5,4 @@
 ## Members
 - Trushaan
 - Mantra
+- Jennifer
